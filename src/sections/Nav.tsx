@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import { content } from '../content/content';
-import { Button } from '../components/Button';
 import { type SectionId, subscribeSection } from '../state/scroll';
 
 export const Nav: React.FC = () => {

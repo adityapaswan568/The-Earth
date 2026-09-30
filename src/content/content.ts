@@ -157,6 +157,7 @@ export const content = {
       { label: "View Portfolio", link: siteConfig.portfolio, primary: true },
       { label: "Connect on LinkedIn", link: siteConfig.linkedin, primary: false },
     ],
+    note: "Currently available for freelance & full-time roles.",
   },
   footer: {
     left: `Earth — a 3D web experience by ${siteConfig.name}.`,
